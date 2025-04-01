@@ -1,0 +1,48 @@
+Chef Game Concepts
+
+Lore and Plot: 
+
+The story begins when chef Mac A. Ronni Limegrater, renowned in his home town for his skills on gastronomy, inherited from his father, 
+the nationally known chef Jordan Limegrater, and which Jordan has immense pride for, mid-work, witnesses a kind of "zombie outbreak" that kills everyone on its path.
+Although they act mindless and violent, the subjects of the outbreak areactually cultists from the Cult of Liimu'gh, which hide among the townspeople, and have been secretely manipulating
+the culinary aspects of the town for their benefit.
+Oblivious to the possible connections his father has to the events, the chef gears up with everything he has to become the hero the town needs! And maybe end the chaos that ensued?
+
+Game Genre
+
+Action 2D Collect-a-thon Platformer
+
+Aesthetic:
+
+Retro (Pixel Art)?
+Hand-Drawn?
+
+Mechanics:
+
+Life (%?, 10 Lives?)
+
+Platformer Mechanics (Walk, Jump, Run)
+
+"Cooking" Combo Mechanic (Tool + Ingredient, Ingredient + Ingredient, Tool + Tool)
+
+Attacks
+
+Dash (Can be derived from Combo Mechanic)
+
+Extra Jumps (Same)
+
+Scenarios:
+
+Village
+
+Outskirts
+
+Forest?
+
+River?
+
+Desert?
+
+City?
+
+Mountain?

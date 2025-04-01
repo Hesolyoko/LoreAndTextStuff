@@ -1,0 +1,138 @@
+Next Char: AZEBAN! :D
+
+Sobre o cara: 
+Azeban na vida real, pra resumir em um paragrafo é uma criatura mística da mitologia Abenaki 
+(wtv that is kkkkkkk) (zoeira parece daora) que é um mini deus das travessuras, só que do bem.
+Tem mais sobre, mas esse é o sumo.
+E ele é um guaxinim. Me pergunto pq será que eu escolhi ele.
+Resumindo mais ainda, a personalidade dele é "We do a little trolling . U ."
+E ele é um guaxinim.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Agora, sobre o char: 
+Eu ainda tô pensando sobre a Lore, mas basicamente "O Azeban" vai ser meio que um 1:1 do cara da mitologia mesmo
+(Talvez com algumas liberdades criativas), até que algum evento grande acontecer e a alma dele ser irreparavelmente dividida
+em 3 partes iguais, cada uma representando uma característica dele. Eu já tive algumas ideias sobre Lugar Natal, o que pode 
+ter acontencido e talvez uma motivação pra ele.
+
+Graças a essa "condição", o char em si tecnicamente são 3 chars, que eu decidi nomear de "Azzy, Zebb e Bann"
+Acho que na tabela de "Aparatos", onde ficariam as armas dos chars, eu vou colocar o nome de cada um, ok?
+
+Acho que eu vou começar a usar tópicos, pra ficar mais rápido de entender as informações que eu vou botar a seguir: 
+
+Design:
+
+Azzy - Ele vai ser o "lutador", pra representar o aspecto feral da criatura.
+Zebb - Ele vai ser o "mago", pra representar o aspecto místico da criatura.
+Bann - Ele vai ser o "rogue", pra representar o aspecto sorrateiro da criatura.
+
+Aspectos Técnicos: 
+
+Os aspectos técnicos vão seguir essa linha criada pelo design, 
+então eu tava pensando em fazer algo tipo: 
+
+Cada um dos chars vai ter 3 ataques, começando com apenas 1, e podendo destrancar mais 2 conforme eu vou ganhando mais xp
+E cada um dos personagens vai ter uma ULT, somando um total de 3 ULTS, 1 já destrancada e outras 2 pra destrancar com xp
+As ULTs serão "Equipáveis", sendo apenas possível usar 1 ULT numa batalha.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Então, Início:
+
+3 Ataques e 1 ULT
+
+Final: 9 Ataques e 3 ULTS Equipáveis
+
+(Ataques com * começarão bloqueados)
+
+Além disso, pela quantidade de elemetnos possíveis, eu achei que poderia deixar um pouco mais "spicy" se, para decidir qual guaxinim eu
+vou usar quando for meu turno, eu rolar um d3. Isto também influenciaria nas condições da ult, que você vai ver mais pra frente.
+
+Ataques do Azzy: 
+
+Ravage - Ataca com arranhões e mordidas, dano 3d20 + Modificador
+Tail Swipe* - Dano em Área, com chance de stunnar, dano 2d20 + Modificador
+Survivor's Berserk* - Entra em estado de pura selvageria ou emite um potente grito de guerra. Espírito e bravura imensas surgidas do caos. 
+		     Quadruplica dano de ataques e quadruplica defesas por 3 rodadas. Rola um d2.
+		     1 - Apenas Azeban; 2 - Toda a Party menos Azeban.
+
+Magias do Zebb: 
+
+Heal - Do jeito que funcionar o sistema de Healing do jogo, eu esqueci kkkk 
+Ritual das Surpresas* - Pode encantar o ataque próprio ou de um amigo, fornecendo um dano elemental aleatório somado ao ataque.
+Archmage's Syphon* - Conecta-se à Matéria Primoridal e ganha absoluta compreensão do inimigo, drenando o fluxo de sua alma temporariamente. 
+		    Copia um ataque do inimigo, substituindo este slot pelo ataque pro resto da batalha, 
+		    e incapacita o inimigo deste ataque por 3 rodadas.
+
+Little Trolling do Bann:
+
+Snatch - Rouba um item de um inimigo selecionado, diminuindo o acerto dele pela metade até o inimigo recuperar ela de volta. (Ele rola d5. Se for acima de 3 ele recupera.)
+Trap 'em* - Implanta armadilhas ao redor da party inimiga, diminuindo a esquiva e a defesa deles pela metade até elas quebrarem. (4 rodadas)
+Thief's Greed* - Meu favorito talvez. Rouba um turno do inimigo selecionado. 
+		Rola um d(número da party + 2). 
+		1 - O turno é apenas apagado (skipado).
+		2 até (n-1) - O turno é dado para o personagem correspondente na Iniciativa.
+		n - O turno é dado para o Azeban, com dobro de status.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				
+ULTs (He he boi):
+
+Antes, explicando a condição - Eu pensei em, para poder desbloquear uma ULT em uma batalha, eu ter que usar pelo menos 3 ataques de guaxinins diferentes.
+Assim, não só eu não começo já com o golpe mais forte, e tambem encoraja o RNG (talvez seja um erro depender do RNG desses bots, mas pelo menos vai ser divertido) a
+variar minha participação em cada encontro. E se eu usasse uma vez, e a batalha ainda continuasse, a condição resetaria.
+
+Flow of Niwaskuri - Os 3 se juntam e canalizam a ordem e o caos dentro de suas almas, 
+		    e projetam essa energia para o mundo. (Talvez minha ult favorita. :D) 
+		    O SISTEMA DE MODIFICADORES VIRA DE SOMAS PARA MULTIPLICAÇÕES.
+		    Ex: Golpe tem dano (d20 + 10 + 2), vira (d20 * 20 * 2). 
+			É uma faca de dois gumes tho: 
+			Debuff é (d20 - 3), vira (d20 / 3)
+
+Soul and Fangs* - Os 3 se juntam e alinham suas almas com todos da equipe, tornando-a uma verdadeira força a ser temida.
+		  TODOS OS PARTICIPANTES DA PARTY ULTAM AO MESMO TEMPO, SEM CUSTOS, SEM PENALIDADES.
+
+Ultimate Raccoon Barrage* - Os 3 se juntam e se preparam para um plano de emergência super elaborado.
+		   Azzy estraçalha os inimigos com 3d100 de dano.
+		   Zebb escolhe 3 almas desesperadas para Healar de volta à saúde completa.
+	           Bann mexe os pauzinhos para conseguir 3 itens dos inimigos.
+
+Meu deus foi difícil pensar nisso tudo! KKKKKK
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Limitações e Considerações Finais: 
+
+Acho que a principal que eu pensei pra eles, além do d3 e da condição pra UlT, seria a da, por serem 3 chars, a barra de vida ser dividida pros 3
+E funcionaria assim: 
+
+Se o máximo de vida é 30
+
+Cada um fica com 10, e se chegar em 0, eles ficam atordoados e incapacitados de participarem pro resto da batalha.
+Se todos os 3 ficarem atordoados, eles ficam em estado moribundo.
+
+Acho que o resto pode ser resolvido junto com o sistema.
+E eu vou pensando no resto dos detalhes na criação da ficha, se eu tiver esquecido de algum.
+
+É isso!
+
+Eu admito que, se der certo, eu acho que esse char vai ser meu preferido :>
+
+Eu falei em um pedaço da lore que as estrelas do céu da galáxia natal do Azeban na verdade não são estrelas normais, são sementes da árvore da estrela-árvore do sistema natal do bicho, e que no final do ciclo de vida da árvore, na supernova que ocorreria, ela estaria essas sementes através do universo, pra formar novas estrelas-árvores e possívelmente formar novas civilizações em novos sistemas.
+
+Também falei que por conta de guerras e conflitos e os caraio 80% da civilização do sistema do Azeban tava extinta, só sobrando a do próprio, a do arqui-inimigo dele e uma das raízes.
+
+Basicamente, a lore que eu pensei seria algo tipo:
+
+A Guarda Imperial descobriu que essas sementes são ótimas fontes de energia para o império, e por conta disso, eles fizeram inúmeras explorações para "roubar" e usar essas sementes. Por conta disso, o céu não tem mais nem 25% das estrelas que tinha quando a alma do Azeban n tinha sido fragmentada.
+
+Enquanto isso, o arqui-inimigo dele tava juntando uma cruzada pra destruir a civilização do planeta dele e dominar o sistema da estrela-árvore, sendo que a civilização restante das raízes tinha uma missão suicida pra tentar destruir as civilizações do tronco.
+
+Então, a motivação dos 3 acaba sendo essa: 
+
+Usar o coração ancestral pra restaurar as sementes, e deixar que sua civilização seja destruída (mas permitindo que futuras venham a surgir e expandir o seu mundo infinitamente)
+
+OU
+
+Usá-lo pra salvar a sua civilização, impedir a guerra e restaurar todas as outras que foram destruídas, criando paz e prosperidade, mas sendo o único sistema que órbita uma estrela-árvore no universo, pra sempre.			
