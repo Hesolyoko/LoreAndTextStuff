@@ -51,6 +51,8 @@ This one is technically not a weapon as it is just the user's Animoplasma manipu
 it would be similar to making a scythe out of water or fire. 
 Ginnun is the result of the user's innate ability and training.
 
+------------------------------------------------------
+
 *Lazurine*
 
 Unlike the Axe, the Chakrams and the other weapons, Lazurine is a crystal created by the mixture of these 3 types of energy (Animoplasma, Cosmoplasma and Luminoplasma) 
@@ -63,12 +65,16 @@ but currently only these two are known.
 Like the Battle Axe, the Vimukti Chakrams are weapons created by the user using his Luminoplasma to modify pieces of the Yggdrasil Colossal Sword, 
 bestowed and converted into deadly sun shaped weapons. 
 Aside from the blade it has 4 physical, metal-like spikes, and can sprout 4 more Luminoplasma ones for maximum damage.
+They can also help manipulate the user's light, serving as boosters for direct lasers or being coated with it to expand significantly and/or launch the luminoplasma spikes.
 
 *Hypernova*
 
 With the power of a collision of a thousand dying stars, 
 Hypernova is a double-headed Battle Axe capable of slashing, bashing and even piercing through his North Sunray. 
 It is also created by One of Yggdrasil's fragments and it requires great strength to use effectively.
+Each strike creates significant physical and light-based explosions by default and different aspects of light can be explored by satisfying the glyphs' properties on it's blades. Some include, becoming electricity-based, radiation-based, heat-based, light-based, wave-based, particle-based and healing-based.
+
+----------------------------------------------------
 
 *Zenith and Igaluk (and Yoru)*
 
@@ -81,20 +87,29 @@ Khopesh (Crescent) - As an additional ability, the Zenith and Igaluk daggers, wh
 which can also change between the "Crescent Form" (blade on the outside, better used for slashing) and the "Gibbous Form" (Blade on the Inside, better used as a hook-type sword).
 
 Khopesh (Gibbous) - As an additional ability, the Zenith and Igaluk daggers, when enough energy is accumulated or using Tsukiplasma, can "awaken" into this Khopesh form, 
-which can also change between the "Gibbous Form" (Blade on the Inside, better used as a hook-type sword), and the "Crescent Form" (blade on the outside, better used for slashing).
+which can also change between the "Gibbous Form" (Blade on the Inside, better used as a hook-type sword), 
+and the "Crescent Form" (blade on the outside, better used for slashing).
 
 *Satellites*
 
-Satellites - These pocket-size "steel" spheres can be manipulated freely by the user, being able to react to vectorial force manipulation and having many uses due to that. 
+These pocket-size "steel" spheres can be manipulated freely by the user, being able to react to vectorial force manipulation and having many uses due to that. 
 They can also change their size at the user's will, allowing them many uses, from tossing them like rocks, to linking them to the chain and using them like flails to even floating by 
 standing on top of them at a size bigger than the user's bodies. Useful for combat, transport and even entertainment (like baseball, football or golf), the possibilities are endless!
- 
+Their powers can also be activated based on their axis of rotation:
+
+X (Single Line) - Unlocks the Moon Eye, giving "life" to the Sattelites, akin to a Golem, in the form of Limbo and Ilyamuro.
+Y (Double Line) - Darkness manipulation.
+Z (Gravitational Field) - Vector manipulation, which includes gravity.
+
+-------------------------------------------------------
+
 
 *Svarozhits*
 
 Kama - The Svarozhits Kamas, much like the Axe and the Daggers/Khopeshes, were the final piece of the Yggdrasil to be separated and turned into a weapon, by the use of the user's 
 Ougiplasma. They can be used individually or together, as they are quantum entangled and harmoniously working as one, and not only can do the things these kinds of weapons do as they 
-can utilize elements and powers of varied levels.
+can utilize elements and powers of varied levels. The one with Samsara's Core can absorb, use and expel physical elements to the user's will (like Fire, Water, Concrete, Wood, Wind, Electricity, Glass, Light). The one with Liebestraum's Core can absorb, use and expel conceptual elements to the user's will (Time, Love, The feeling of being burned to death, Anemoia, The feeling of being shocked, Photosynthesis, Intelligence, Despair, Bravery). Both of the kamas can be used interchangeably, for example, the element absorbed by Samsara's Core Kama can be expelled by Liebestraum's as a concept and vice versa. 
+
 
 Pickaxe - And, as a bonus, if the user wants, it can join them using the Ougiplasma into a neat pickaxe, for when you need that quantum ore!
 
@@ -102,14 +117,16 @@ Pickaxe - And, as a bonus, if the user wants, it can join them using the Ougipla
 *Ewigerfluss*
 
 In another level of harmony that Svarozhits can reach, the Kamas are straightened out and joined in a complete dance of the real and unreal, acquiring then the form of 
-an Ougiplasma-coated Double Spear, which can be extremely effective and very powerful.
+an Ougiplasma-coated Double Spear, which can be extremely effective and very powerful. The Spear is Time-themed, with Samsara's blade reversing entropy upon impact and/or activation by the user, while Liebestraum's blade forwarding it. It can also be separated into two Arrow-like spears, and both powers can coat the whole weapon, like just a Samsara Double Spear, or a Liebestraum Double Spear, switching between those at will.
 
 
 *Efemernost*
 
 When breaking even more the limits of this weapon's power, Ewigerfluss can be condensed into an unilateral arrow form, Efemernost, which can be fired from the like a harpoon, 
 which can normally damage the target or conjuring the conceptual aetherial bow part of it and unleashing it's full, fractalic potential. When firing the arrow, 
-it taps into all of its infinite variants and bleeds them all into reality, creating a surreal barrage of Efemernosts which can be extremely effective.
+it taps into all of its infinite variants and bleeds them all into reality, creating a surreal barrage of Efemernosts going haywire in all directions, which can be extremely effective for clearing a whole area.
+
+---------------------------------------------------------------
 
 
 *Aegis (Primary Creation and Protection Resource)*
